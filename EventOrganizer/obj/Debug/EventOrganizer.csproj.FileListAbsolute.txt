@@ -1,0 +1,12 @@
+c:\users\cleverson\documents\visual studio 2015\Projects\EventOrganizer\EventOrganizer\bin\Debug\EventOrganizer.exe.config
+c:\users\cleverson\documents\visual studio 2015\Projects\EventOrganizer\EventOrganizer\obj\Debug\EventOrganizer.csprojResolveAssemblyReference.cache
+c:\users\cleverson\documents\visual studio 2015\Projects\EventOrganizer\EventOrganizer\bin\Debug\EventOrganizer.exe
+c:\users\cleverson\documents\visual studio 2015\Projects\EventOrganizer\EventOrganizer\bin\Debug\EventOrganizer.pdb
+c:\users\cleverson\documents\visual studio 2015\Projects\EventOrganizer\EventOrganizer\obj\Debug\EventOrganizer.exe
+c:\users\cleverson\documents\visual studio 2015\Projects\EventOrganizer\EventOrganizer\obj\Debug\EventOrganizer.pdb
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizer\bin\Debug\EventOrganizer.exe.config
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizer\obj\Debug\EventOrganizer.exe
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizer\obj\Debug\EventOrganizer.pdb
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizer\bin\Debug\EventOrganizer.exe
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizer\bin\Debug\EventOrganizer.pdb
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizer\obj\Debug\EventOrganizer.csprojResolveAssemblyReference.cache

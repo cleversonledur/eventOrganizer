@@ -1,0 +1,16 @@
+C:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTests\bin\Debug\EventOrganizerTests.dll
+C:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTests\bin\Debug\EventOrganizerTests.pdb
+C:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTests\bin\Debug\EventOrganizer.exe
+C:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTests\bin\Debug\EventOrganizer.pdb
+C:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTests\obj\Debug\EventOrganizerTests.csprojResolveAssemblyReference.cache
+C:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTests\obj\Debug\EventOrganizerTests.dll
+C:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTests\obj\Debug\EventOrganizerTests.pdb
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizerTests\bin\Debug\EventOrganizerTests.dll
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizerTests\bin\Debug\EventOrganizerTests.pdb
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizerTests\bin\Debug\EventOrganizer.exe
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizerTests\bin\Debug\EventOrganizer.pdb
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizerTests\obj\Debug\EventOrganizerTests.csprojResolveAssemblyReference.cache
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizerTests\obj\Debug\EventOrganizerTests.dll
+C:\Users\cleverson\Desktop\EventOrganizer\EventOrganizerTests\obj\Debug\EventOrganizerTests.pdb

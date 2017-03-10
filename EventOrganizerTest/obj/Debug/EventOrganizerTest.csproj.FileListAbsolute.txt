@@ -1,0 +1,8 @@
+c:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTest\bin\Debug\EventOrganizerTest.dll
+c:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTest\bin\Debug\EventOrganizerTest.pdb
+c:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTest\obj\Debug\EventOrganizerTest.csprojResolveAssemblyReference.cache
+c:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTest\obj\Debug\EventOrganizerTest.dll
+c:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTest\obj\Debug\EventOrganizerTest.pdb
+C:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTest\bin\Debug\EventOrganizer.exe
+C:\Users\cleverson\Documents\Visual Studio 2015\Projects\EventOrganizer\EventOrganizerTest\bin\Debug\EventOrganizer.pdb
